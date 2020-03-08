@@ -3,7 +3,7 @@
 # https://github.com/sibermanguni/
 
 ## Getting Started
-1. ```git clone https://github.com/sibermanguni/gmailhack.git```
+1. ```git clone https://github.com/sibermanguni/gmailhack.py```
 2. ```cd gmailhack```
 3. ```python gmailhack.py ```
 
