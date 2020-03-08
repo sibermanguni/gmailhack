@@ -5,7 +5,8 @@
 ## Getting Started
 1. ```git clone https://github.com/sibermanguni/gmailhack.py```
 2. ```cd gmailhack```
-3. ```python gmailhack.py ```
+3. ```chmod +x gemailhack.py ```
+4. ```python gemailhack.py```
 
 ## A linux operating system. We recommend :
 - Kali Linux 
@@ -14,8 +15,7 @@
 - BackTrack 
 - Backbox
 
-### Donate! 
-
+### 
 ![](https://avatars2.githubusercontent.com/u/61872949?s=400&v=4)
 
  
